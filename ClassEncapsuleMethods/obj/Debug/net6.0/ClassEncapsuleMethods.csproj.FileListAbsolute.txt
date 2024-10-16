@@ -1,0 +1,15 @@
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\ClassEncapsuleMethods\obj\Debug\net6.0\ClassEncapsuleMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\ClassEncapsuleMethods\obj\Debug\net6.0\ClassEncapsuleMethods.AssemblyInfoInputs.cache
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\ClassEncapsuleMethods\obj\Debug\net6.0\ClassEncapsuleMethods.AssemblyInfo.cs
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\ClassEncapsuleMethods\obj\Debug\net6.0\ClassEncapsuleMethods.csproj.CoreCompileInputs.cache
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\ClassEncapsuleMethods\obj\Debug\net6.0\ClassEncapsuleMethods.sourcelink.json
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\ClassEncapsuleMethods\bin\Debug\net6.0\ClassEncapsuleMethods.exe
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\ClassEncapsuleMethods\bin\Debug\net6.0\ClassEncapsuleMethods.deps.json
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\ClassEncapsuleMethods\bin\Debug\net6.0\ClassEncapsuleMethods.runtimeconfig.json
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\ClassEncapsuleMethods\bin\Debug\net6.0\ClassEncapsuleMethods.dll
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\ClassEncapsuleMethods\bin\Debug\net6.0\ClassEncapsuleMethods.pdb
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\ClassEncapsuleMethods\obj\Debug\net6.0\ClassEncapsuleMethods.dll
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\ClassEncapsuleMethods\obj\Debug\net6.0\refint\ClassEncapsuleMethods.dll
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\ClassEncapsuleMethods\obj\Debug\net6.0\ClassEncapsuleMethods.pdb
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\ClassEncapsuleMethods\obj\Debug\net6.0\ClassEncapsuleMethods.genruntimeconfig.cache
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\ClassEncapsuleMethods\obj\Debug\net6.0\ref\ClassEncapsuleMethods.dll
